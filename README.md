@@ -1,2 +1,1 @@
-# learning
-Learning phase
+ https://khsuraiya.github.io/learning/
